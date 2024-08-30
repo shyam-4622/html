@@ -1,0 +1,16 @@
+.cen{
+    margin-top: 20px;
+}
+#BODY{
+    text-align: center;
+    background-color:rgb(rgb(233, 233, 233), rgb(125, 129, 125), rgb(11, 11, 90)) ;
+
+}
+
+#h2{
+    color: black ;
+    text-align: center;
+}
+#button{
+    color: rgb(23, 24, 24);
+}
